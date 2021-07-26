@@ -10,4 +10,4 @@ Keywords: COVID-19, Vaccination, Forecast, Data Science, R
 [2] Share of people who received at least one dose of COVID-19 vaccine. (n.d.). Our World in Data. Retrieved July 12, 2021, from https://ourworldindata.org/grapher/share-people-vaccinated-covid
 
 
-# this is a project for a data science internship at the "Science For All Audience" (SCIFAA).
+this is a project for a data science internship at the "Science For All Audience" (SCIFAA).
