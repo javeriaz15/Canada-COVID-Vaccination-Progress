@@ -12,9 +12,10 @@
 ### Data Modelling
 - Build descriptive and predictive model based on linear regression to support experimentation.<br /> 
 - Predicted the time in the future when every Canadian would get at least 1 dose of the COVID-19 vaccine.<br />
+- Check out folder: "When will Cananda be Vaccinated" and run **Covidvaccines_r13.R**
 ### Science Communication
-- Created a presentation to provide insights and deliver results in lay words<br />
-- Drafted a detailed report to explain the approach for predictive analysis that is easily understood and replicated<br />
+- Created a presentation to provide insights and deliver results in lay words.<br />
+- Drafted a detailed report to explain the approach for predictive analysis that is easily understood and replicated. See **Report_SCIFAA_DS.pdf**<br />
 
 
 This is a project for a data science internship at the "Science For All Audience" (SCIFAA).
