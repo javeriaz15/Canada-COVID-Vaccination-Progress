@@ -1,6 +1,7 @@
 # Predictive Modelling on Canada COVID Vaccinations
 **Data Set**: Share of people who received at least one dose of the COVID-19 vaccine. (n.d.). Our World in Data. <br />
 **Project**:This project describes a statistical, descriptive, and predictive model to forecast exactly when every Canadian will be completely vaccinated.<br />
+**Timeline**: 15 December 2020 to 15 July 2021 <br />
 ## Approach
 ### Programming language: R in R Studio
 ### Extracting dataset
