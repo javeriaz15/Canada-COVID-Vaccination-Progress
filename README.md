@@ -3,7 +3,7 @@
 **Project**: This project describes a statistical, descriptive, and predictive model using data analysis and data visualization tools to forecast exactly when every Canadian will be completely vaccinated.<br />
 **Timeline**: 15 December 2020 to 15 July 2021 <br />
 ## Approach
-### Programming language: R in R Studio
+### Programming language: R, Python 
 ### Extracting dataset
 - Extraction of COVID-19 vaccination progress all over the world.<br />
 - Extract, review and reshape the Canada vaccination data for analysis, and reporting using R.<br />
